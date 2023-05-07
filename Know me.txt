@@ -1,0 +1,18 @@
+JDBC
+1) import the package
+2) Load and register the drivers
+3) Establish the connection
+4) Create the statement
+5) Execute the query
+6) Process result
+7) Close
+Eg:
+to call someone 
+1) Cell phone
+2) load sim
+3) Establish connection dial the number
+4) Think waht to say
+5) speak 6) what they know(respond) 7) end
+
+JAVA
+Servlet, JDBC, CRUD, SB
